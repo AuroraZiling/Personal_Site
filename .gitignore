@@ -1,2 +1,20 @@
-node_modules
+
 dist
+.solid
+.output
+.vercel
+.netlify
+netlify
+
+# dependencies
+/node_modules
+
+# Env
+.env
+
+# Temp
+gitignore
+
+# System Files
+.DS_Store
+Thumbs.db
