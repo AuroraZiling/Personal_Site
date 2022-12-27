@@ -2,7 +2,7 @@
   "name": "test-solid-start",
   "scripts": {
     "dev": "solid-start dev",
-    "build": "node ./scripts/pre.js && solid-start build && node ./scripts/prerender.js",
+    "build": "node solid-start build && node ./scripts/prerender.js",
     "start": "solid-start start",
     "lint": "eslint src --ext .js --ext .jsx",
     "format": "prettier-eslint \"**/*.js\" \"**/*.jsx\" \"**/*.mdx\" \"**/*.json\" --write"
