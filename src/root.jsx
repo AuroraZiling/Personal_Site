@@ -22,7 +22,7 @@ export default function Root () {
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta name="description" content="SolidStart - Bare" />
         <Meta name="keywords" content="solid, solidjs, solid-start" />
-        <Link rel="icon" href="/favicon.ico" />
+        <Link rel="icon" href="/src/assets/images/avatar.50x50.webp" />
       </Head>
       <Body class="m0 bg-black color-white">
         <Scrollbar>
