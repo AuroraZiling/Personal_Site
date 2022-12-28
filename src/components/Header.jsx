@@ -15,7 +15,7 @@ const routes = [
   },
   {
     name: 'Blog',
-    path: '/blog'
+    path: 'https://blog.ziling.space/'
   },
   {
     name: 'About',
